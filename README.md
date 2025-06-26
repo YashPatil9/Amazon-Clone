@@ -2,7 +2,9 @@
 🛒 Amazon Clone (Frontend Only)
 A responsive Amazon-inspired e-commerce frontend built using HTML, CSS, and JavaScript. This project replicates key UI components of the Amazon website and demonstrates skills in frontend development, DOM manipulation, and responsive design.
 <br>
+<br>
 🚀 Features<br>
+<br>
 🧭 Navigation Bar — Includes logo, search bar, and user/cart icons
 <br>
 🔍 Search Functionality — Simulated product search bar (UI only)
@@ -13,21 +15,27 @@ A responsive Amazon-inspired e-commerce frontend built using HTML, CSS, and Java
 <br>
 📱 Responsive Design — Optimized for desktop, tablet, and mobile viewports
 <br>
+<br>
 🛠️ Tech Stack<br>
+<br>
 HTML5 — Structure and semantic markup
 <br>
 CSS3 — Styling and responsive design with media queries
 <br>
 JavaScript (Vanilla) — DOM manipulation and interactive elements
 <br>
+<br>
 🚧 Limitations / Future Improvements<br>
+<br>
 No backend integration — This is a frontend-only project.
 <br>
 Cart and search functionalities are not connected to a live database.
 <br>
 Future goals: Add user authentication, real-time product filtering, and backend support.
 <br>
+<br>
 📚 Learning Outcomes<br>
+<br>
 Strengthened knowledge of responsive layout techniques
 <br>
 Improved use of flexbox and grid systems
@@ -36,7 +44,9 @@ Hands-on practice with JavaScript for DOM events
 <br>
 Gained experience structuring a scalable frontend project
 <br>
+<br>
 📬 Feedback<br>
+<br>
 Have suggestions or want to contribute? Feel free to open an issue or pull request!
 
 
